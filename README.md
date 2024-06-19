@@ -1,4 +1,4 @@
-![Presentation Title](thumbnail.jpg)
+![Presentation Title](Thumbnail.jpg)
 
 # Terraform: The Developer's Swiss Army Knife for Infrastructure
 
@@ -46,6 +46,7 @@ Drawing from real-world use cases and best practices, this presentation equips d
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | TBA | TBA | TBA | Available Afterwards |
 | [Cincy Delivery 2024](https://www.cincydeliver.org/) | Mason, OH | July 26, 2024 | TBA | TBA | Available Afterwards |
 
 ## Resources
