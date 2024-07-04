@@ -46,10 +46,10 @@ Drawing from real-world use cases and best practices, this presentation equips d
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | TBA | TBA | TBA | Available Afterwards |
+| [Prairie Dev Con Winnipeg 2024](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | September 23-24, 2024 | TBA | TBA | Available Afterwards |
 | [Cincy Delivery 2024](https://www.cincydeliver.org/) | Mason, OH | July 26, 2024 | TBA | TBA | Available Afterwards |
+
+Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Presentation%20Title) to have Chad present this session at your event.
 
 ## Resources
 There are no additional resources for this presentation.
-
-Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Presentation%20Title) to have Chad present this session at your event.
