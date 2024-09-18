@@ -1,4 +1,4 @@
-![Presentation Title](Thumbnail.jpg)
+![Presentation Title](thumbnail.jpg)
 
 # Terraform: The Developer's Swiss Army Knife for Infrastructure
 
